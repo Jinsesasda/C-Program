@@ -1,0 +1,17 @@
+                      Commands to run the public tests
+
+1. warnlines.x < public1.input | diff - public1.output
+
+2. warnlines.x < public2.input | diff - public2.output
+
+3. warnlines.x < public3.input | diff - public3.output
+
+4. warnlines.x < public4.input | diff - public4.output
+
+5. warnlines.x < public5.input | diff - public5.output
+
+6. warnlines.x < public6.input | diff - public6.output
+
+7. warnlines.x < public7.input | diff - public7.output
+
+8. warnlines.x < public8.input | summary.x | diff - public8.output
